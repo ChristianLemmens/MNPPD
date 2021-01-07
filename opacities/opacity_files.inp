@@ -1,0 +1,24 @@
+'./QVAL/'
+      13
+1	Q_Am_Mgolivine_Jae_DHS_f0.7_rv0.1.dat
+1	Q_Am_Mgolivine_Jae_DHS_f0.7_rv2.0.dat
+1	Q_Am_Mgolivine_Jae_DHS_f0.7_rv5.0.dat
+1	Q_Am_Mgpyroxene_Dor_DHS_f0.7_rv0.1.dat
+1	Q_Am_Mgpyroxene_Dor_DHS_f0.7_rv2.0.dat
+1	Q_Am_Mgpyroxene_Dor_DHS_f0.7_rv5.0.dat
+1	Q_Fo_Sogawa_DHS_f1.0_rv0.1.dat
+1	Q_Fo_Sogawa_DHS_f1.0_rv2.0.dat
+1	Q_En_Jaeger_DHS_f1.0_rv0.1.dat
+1	Q_En_Jaeger_DHS_f1.0_rv2.0.dat
+1       Q_Silica_MH_DHS_f0.7_rv0.1.dat
+1       Q_Silica_MH_DHS_f0.7_rv2.0.dat
+1       Q_Silica_MH_DHS_f0.7_rv5.0.dat
+
+'./PAH/'
+       5
+1   PAH_X4_62.template
+1   PAH_X5_77.template
+1   PAH_X5_86.template
+1   PAH_X6_113.template
+1   PAH_X1_127.template
+
